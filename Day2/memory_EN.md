@@ -45,7 +45,7 @@ that can be allocated.
 - $1 \le N \le 5\cdot 10^5$
 - $1 \le M \le 5\cdot 10^5$
 - $1 \le T \le 5\cdot 10^5$
-- $1 \le A_i \le B_i \le M$ for all $i$
+- $1 \le A_i \le B_i \le M$ and $0 \le V_i \le 1$ for all $i$
 - Time and memory limit: See the CMS.
 
 ## Subtasks
