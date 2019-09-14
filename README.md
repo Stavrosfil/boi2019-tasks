@@ -1,11 +1,12 @@
 # BOI 2019 tasks
 
-| Days | Markdown                              | PDF                               |
-| ---- | ------------------------------------- | --------------------------------- |
-|      | [Icarus](/Day1/icarus-GRC.md)         | N/A                               |
-| Day1 | [Fishermen](/Day1/fishermen-GRC.md)   | N/A                               |
-|      | [Dictionary](/Day1/dictionary-GRC.md) | N/A                               |
-|      |                                       |                                   |
-|      | [Tennis](/Day2/tennis-GRC.md)         | [PDF](/Day2/pdf/tennis-GRC.pdf)   |
-| Day2 | [Roadtrip](/Day2/roadtrip-GRC.md)     | [PDF](/Day2/pdf/roadtrip-GRC.pdf) |
-|      | [Memory](/Day2/memory-GRC.md)         | [PDF](/Day2/pdf/memory-GRC.pdf)   |
+
+| Days  |            | Markdown                                                  | PDF                               |
+| :---: | ---------- | :-------------------------------------------------------- | --------------------------------- |
+|       | Icarus     | [~~EN~~]() \| [GR](/Day1/icarus-GRC.md)                   | N/A                               |
+| Day1  | Fishermen  | [~~EN~~]() \| [GR](/Day1/fishermen-GRC.md)                | N/A                               |
+|       | Dictionary | [~~EN~~]() \| [GR](/Day1/dictionary-GRC.md)               | N/A                               |
+|       |            |
+|       | Tennis     | [EN](/Day2/tennis-EN.md) \| [GR](/Day2/tennis-GRC.md)     | [PDF](/Day2/pdf/tennis-GRC.pdf)   |
+| Day2  | Roadtrip   | [EN](/Day2/roadtrip-EN.md) \| [GR](/Day2/roadtrip-GRC.md) | [PDF](/Day2/pdf/roadtrip-GRC.pdf) |
+|       | Memory     | [EN](/Day2/memory-EN.md) \| [GR](/Day2/memory-GRC.md)     | [PDF](/Day2/pdf/memory-GRC.pdf)   |
